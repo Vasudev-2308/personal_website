@@ -93,7 +93,7 @@ h3{
     display: block;
 }
 .section__subtitle--intro{
-    display: inline-block;
+    display: block;
 }
 .section__subtitle{
     margin: 0;
