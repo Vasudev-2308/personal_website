@@ -233,8 +233,8 @@ width: calc(100% + 1.5em);
 }
 
 .service{
-    max-width: 500px;
-    margin: 0, auto;
+    max-width: 700px;
+    margin: auto;
 }
 .services{
     margin-bottom: 4em;
@@ -249,7 +249,7 @@ width: calc(100% + 1.5em);
     }
 
     .service + .service{
-        margin-left: 2em;
+        margin-left: 3em;
 
     }
 }
