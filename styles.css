@@ -65,7 +65,7 @@ section{
 h1,
 h2,
 h3{
-    line-height: 1.1;
+    line-height: 1;
     margin: 0;
 }
 
@@ -93,7 +93,7 @@ h3{
     display: block;
 }
 .section__subtitle--intro{
-    display: block;
+    display: inline-block;
 }
 .section__subtitle{
     margin: 0;
@@ -329,7 +329,7 @@ width: calc(100% + 1.5em);
 }
 .portfolio_item:focus,
 .portfolio_item:hover{
-    transform: scale(1.2);
+    transform: scale(1.1);
 }
 
 .footer{
